@@ -38,4 +38,4 @@ Copy the database script into mysql to create the datables, table and columns.
 
 Copy the project path from htdocs to open it on the browser,
 
-`http://localhost/Nameofproject/Application/index.php`
+`http://localhost/Kilimo-High-School/Application/index.php`
